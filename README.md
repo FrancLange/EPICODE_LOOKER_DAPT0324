@@ -27,4 +27,4 @@ Questo repository contiene un'analisi approfondita del **Festival di Sanremo** d
 
 ### Visualizzazioni e Strumenti:
 
-I dati sono stati analizzati e visualizzati utilizzando [Looker Studio](https://www.rai.it/resizegd/640x-/dl/img/2023/07/10/1688983658253_sanremo_regolamenti.jpg), mettendo in evidenza le tendenze nel tempo riguardanti il genere dei presentatori e dei vincitori, insieme ad altre statistiche chiave.
+I dati sono stati analizzati e visualizzati utilizzando [Looker Studio](https://lookerstudio.google.com/reporting/ed89ae2d-312d-4e0b-ba42-37f205ab02bd), mettendo in evidenza le tendenze nel tempo riguardanti il genere dei presentatori e dei vincitori, insieme ad altre statistiche chiave.
